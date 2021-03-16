@@ -1,4 +1,4 @@
-# music player
+# Music Player Project
 
 ## Introduction:
 
