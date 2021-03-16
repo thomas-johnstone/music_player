@@ -1,3 +1,3 @@
-# music_player
+# music player
 
 to do:
