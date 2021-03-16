@@ -1,7 +1,6 @@
 # Music Player Project
 
 ## Introduction:
-
 Simple design of the software for a mock music player application written in Java.
 
 ## Technologies:
@@ -11,6 +10,7 @@ Project is created with:
 * Ament library version: 999
 
 ## Project Status:
+* v 1.0
 
 ## Setup & Launch:
 To run this project, install it locally using npm:
