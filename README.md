@@ -1,3 +1,9 @@
 # music player
 
-to do:
+## Introduction:
+
+## Project Status:
+
+## Technologies:
+
+## Launch:
